@@ -1368,7 +1368,7 @@ public class Config {
         c.returnWater33 = 0;
         c.returnWater18 = 0;
         c.returnWater10 = 0;
-        c.helpFriendCollect = true;
+        c.helpFriendCollect = false;
         if (c.dontCollectList == null)
             c.dontCollectList = new ArrayList<>();
         if (c.dontHelpCollectList == null)
